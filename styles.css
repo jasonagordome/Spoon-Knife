@@ -9,7 +9,7 @@
   margin: 50px auto;
 }
 
-p,h1,ul,ol {
+p,h1,ul,ol,a {
   display: block;
   width: 400px;
   margin: 50px auto;
