@@ -11,3 +11,5 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 ### Sunbringer glaze
 
 Bangboo are the reason this heart still beats. Sunbringer loved humanity, which is why ever Bangboo has a command simple and absolute in their logic core. To protect humanity at all costs.
+
+Sunbringer was the first generation Void Hunter and CEO of Marcel Group who eradicated the Hive Lord Hollow in the sky. Sunbringer brought humanity knowledge of porcellume refinement, ether resistance, single handedly calmed Hollow and invented the first Bangboo. Humanity did not understand who she was or where she came from, and eventually the people turned on her due to allegations of colluding with the Creator, an all knowing all powerful god that rules the hollows and wants to see the last basiton of humanity, New Eridu, swallowed by them. In the end, Sunbringer retreated to the heavens, never to be seen again.
