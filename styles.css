@@ -5,16 +5,37 @@
 
 #images {
   display: block;
-  width:384px;
+  width: 1500px;
+  margin: 0px;
+  margin-bottom: 30px;
+}
+
+h1 {
+  color:rgb(189, 13, 13);
+  display: block;
+  width: 1500px;
   margin: 50px auto;
+  font: 60px Monaco,"Impact",ui-monospace;
+  font-kerning: auto;
+
 }
 
 body {
   display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-  
+  width: 1500px;
+  margin: 10px auto;
+  font: 30px Monaco,"Helvetica",ui-monospace;
+  font-kerning: auto;
+  margin-bottom: 30px;
+    background-image: url("istockphoto-941391600-612x612.jpg");
+}
+
+p {
+  margin-bottom: 30px;
+}
+
+a:hover{
+  color:red;
 }
 
 .demon{
